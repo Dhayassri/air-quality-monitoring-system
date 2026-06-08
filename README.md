@@ -41,7 +41,17 @@ The gas sensor continuously measures the concentration of pollutants in the surr
 
 ## Project Images
 
-(Add images below)
+### Good Air Quality Indication
+
+![Good Air Quality](images/Good.jpeg)
+
+### Average Air Quality Indication
+
+![Average Air Quality](images/Average.jpeg)
+
+### Prototype Setup
+
+![Prototype](images/prototype.jpeg)
 
 ## Future Enhancements
 
