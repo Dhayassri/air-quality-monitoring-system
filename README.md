@@ -67,9 +67,4 @@ The gas sensor continuously measures the concentration of pollutants in the surr
 - Embedded C
 - IoT Concepts
 
-## Contributors
 
-- Dhayas Sri R
-- Abirami V
-- Dibika A
-- Atshaya K N
